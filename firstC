@@ -4,5 +4,4 @@ void main(){
   int a;
   printf("Hello Word!");
   scanf("%d",&a);
-  printf(a);
 }
